@@ -1,4 +1,4 @@
-package com.app.sign_up;
+package com.mdw31gA.Anti_Covid;
 
 import androidx.appcompat.app.AppCompatActivity;
 
